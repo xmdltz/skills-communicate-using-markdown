@@ -23,3 +23,7 @@
 - [x] This task is complete
 - [ ] This task is not complete
       
+## My Code Example
+
+```bash
+git clone https://github.com/xmdltz/skills-communicate-using-markdown
